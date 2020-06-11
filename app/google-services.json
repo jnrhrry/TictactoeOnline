@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764682654633",
+    "firebase_url": "https://tictactoegame-2987d.firebaseio.com",
+    "project_id": "tictactoegame-2987d",
+    "storage_bucket": "tictactoegame-2987d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764682654633:android:b61b2c402278f8bbac6ab8",
+        "android_client_info": {
+          "package_name": "com.januar.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764682654633-nvn8nq6l1otsgqln0bchpddo3m83m2un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARwRljeuUG2zthtQzOX0C-R49LAZM2D8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764682654633-nvn8nq6l1otsgqln0bchpddo3m83m2un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
